@@ -1,0 +1,1 @@
+itms-services://?action=download-manifest&url=manifest.plist的github下载地址
