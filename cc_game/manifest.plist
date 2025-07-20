@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/think-of-xiao/AndroidIosQrCodePath/raw/refs/heads/main/kk_game/kk_game.ipa</string>
+					<string>https://github.com/think-of-xiao/AndroidIosQrCodePath/raw/refs/heads/main/cc_game/cc_game.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/think-of-xiao/AndroidIosQrCodePath/refs/heads/main/kk_game/image.57x57.png</string>
+					<string>https://raw.githubusercontent.com/think-of-xiao/AndroidIosQrCodePath/refs/heads/main/cc_game/image.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/think-of-xiao/AndroidIosQrCodePath/refs/heads/main/kk_game/image.512x512.png</string>
+					<string>https://raw.githubusercontent.com/think-of-xiao/AndroidIosQrCodePath/refs/heads/main/cc_game/image.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kkgametop.game</string>
+				<string>com.ccgametest.live</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>KK Game</string>
+				<string>CC Game</string>
 			</dict>
 		</dict>
 	</array>
